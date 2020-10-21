@@ -1,5 +1,5 @@
 # Calculator
-> A calculator provides standard calculator functionality and also offers history function and an option to calculate expressions.
+> A calculator provides standard calculator functionality.
 
 ### Built with
 * [JavaFX](https://openjfx.io/)
