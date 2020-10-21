@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalculatorFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculatorFX_jar</output-path>
+    <root id="archive" name="CalculatorFX.jar">
+      <element id="module-output" name="CalculatorFX" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx-swt.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.base.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.controls.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.media.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.properties" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.swing.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/javafx.web.jar" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libdecora_sse.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libfxplugins.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libglass.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libglib-lite.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libgstreamer-lite.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libjavafx_font.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libjavafx_iio.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libjfxmedia_avf.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libjfxmedia.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libjfxwebkit.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libprism_common.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libprism_es2.dylib" />
+      <element id="file-copy" path="/Library/Java/Extensions/javafx-sdk-11.0.2/lib/libprism_sw.dylib" />
+    </root>
+  </artifact>
+</component>
