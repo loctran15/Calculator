@@ -21,5 +21,5 @@
 <img src="/Demo/Demo2.gif" width="400" height="500"/>
 
 ### Contributors
-* [Loc Tran](https://github.com/locptran)
+* [Loc Tran](https://github.com/loctran15)
 * [Mai Bui](https://github.com/maipbui)
